@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+- I'm the official pioneer of 'Guayaba Electolit' in Mexico City.
+- Currently studying CS.
+  
+  
+
+
 <!--
 **arantxavalenciaa/arantxavalenciaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
