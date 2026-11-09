@@ -1,22 +1,45 @@
-## Hi there 👋
+# Arantxa Valencia Reyes
 
-- I'm the official pioneer of 'Guayaba Electolit' in Mexico City.
-- Currently studying CS.
-  
-  
+[Español](#español) · [English](#english)
 
+---
 
-<!--
-**arantxavalenciaa/arantxavalenciaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Español
 
-Here are some ideas to get you started:
+**Estudiante de Inteligencia de Datos y Ciberseguridad**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Actualmente me encuentro cursando los últimos semestres de mi carrera, con interés en el análisis de datos y la seguridad de la información.
+
+### Tecnologías
+
+- **Lenguajes:** Python, C++, Java, SQL, JavaScript
+- **Desarrollo web:** HTML, CSS, JavaScript, React
+- **Desarrollo móvil:** React Native
+
+### Contacto
+
+- Correo: [arantxa.valenciareyes@gmail.com](mailto:arantxa.valenciareyes@gmail.com)
+- LinkedIn: [Arantxa Valencia Reyes](https://www.linkedin.com/in/TU-USUARIO)
+
+[Ir al inicio](#arantxa-valencia-reyes)
+
+---
+
+## English
+
+**Data Intelligence and Cybersecurity Student**
+
+I am currently in the final semesters of my degree, with an interest in data analysis and information security.
+
+### Technologies
+
+- **Languages:** Python, C++, Java, SQL, JavaScript
+- **Web development:** HTML, CSS, JavaScript, React
+- **Mobile development:** React Native
+
+### Contact
+
+- Email: [arantxa.valenciareyes@gmail.com](mailto:arantxa.valenciareyes@gmail.com)
+- LinkedIn: [Arantxa Valencia Reyes](https://www.linkedin.com/in/TU-USUARIO)
+
+[Back to top](#arantxa-valencia-reyes)
