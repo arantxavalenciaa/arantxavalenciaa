@@ -19,7 +19,7 @@ Actualmente me encuentro cursando los últimos semestres de mi carrera, con inte
 ### Contacto
 
 - Correo: [arantxa.valenciareyes@gmail.com](mailto:arantxa.valenciareyes@gmail.com)
-- LinkedIn: [Arantxa Valencia Reyes](https://www.linkedin.com/in/TU-USUARIO)
+- LinkedIn: [Arantxa Valencia Reyes](https://www.linkedin.com/in/arantxa-valencia-reyes-516174342/)
 
 [Ir al inicio](#arantxa-valencia-reyes)
 
@@ -40,6 +40,6 @@ I am currently in the final semesters of my degree, with an interest in data ana
 ### Contact
 
 - Email: [arantxa.valenciareyes@gmail.com](mailto:arantxa.valenciareyes@gmail.com)
-- LinkedIn: [Arantxa Valencia Reyes](https://www.linkedin.com/in/TU-USUARIO)
+- LinkedIn: [Arantxa Valencia Reyes](https://www.linkedin.com/in/arantxa-valencia-reyes-516174342/)
 
 [Back to top](#arantxa-valencia-reyes)
